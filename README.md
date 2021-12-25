@@ -85,4 +85,4 @@ python "Main.py"
 
 ## Demo
 
-![](Demo/Demo.gif)
+![](Demo/Demo.mp4)
