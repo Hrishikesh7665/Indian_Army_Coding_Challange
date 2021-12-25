@@ -85,4 +85,9 @@ python "Main.py"
 
 ## Demo
 
-![](Demo/Demo.mp4)
+![](Demo/Demo.gif)
+
+
+- Video Demo
+
+`Demo.mp4` [Click Here](https://github.com/Hrishikesh7665/Indian_Army_Coding_Challange/blob/main/Demo/Demo.mp4?raw=true)
