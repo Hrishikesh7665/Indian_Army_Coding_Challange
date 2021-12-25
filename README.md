@@ -61,9 +61,6 @@ pip install PyAudio
 pip install pygame
 ```
 ```
-pip install pygame
-```
-```
 pip install Pillow
 ```
 ```
